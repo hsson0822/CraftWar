@@ -1,0 +1,12 @@
+START	게임 시작
+STORE	상점
+RECORD	기록
+EXIT	종료
+BACK	뒤로 가기
+RANKING	랭킹
+UPGRADE	업그레이드
+RESUME	이어 하기
+SCORE	점수
+GOLD	골드
+GAME OVER	게임 오버
+RETRY	다시 하기
